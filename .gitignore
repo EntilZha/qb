@@ -1,0 +1,8 @@
+*.pyc
+.idea
+Makefile
+data/questions.db
+data/wikifier
+data/deep
+lib/*.jar
+
